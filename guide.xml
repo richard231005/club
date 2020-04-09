@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC FHD">
+    <display-name lang="es">AMC FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="es">AXN FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="es">Canal Brasil FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Sony FHD">
+    <display-name lang="es">Canal Sony FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Cinemax FHD">
+    <display-name lang="es">Cinemax FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Fox Premium 1 FHD">
+    <display-name lang="pt">Fox Premium 1 FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Fox Premium 2 FHD">
+    <display-name lang="pt">Fox Premium 2 FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="es">FX FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Megapix FHD">
+    <display-name lang="es">Megapix FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Paramount Channel FHD">
+    <display-name lang="es">Paramount Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Smithsonian Channel FHD">
+    <display-name lang="es">Smithsonian Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Space FHD">
+    <display-name lang="es">Space FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Studio Universal FHD">
+    <display-name lang="es">Studio Universal FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Syfy FHD">
+    <display-name lang="es">Syfy FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TBS FHD">
+    <display-name lang="es">TBS FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TCM SD">
+    <display-name lang="es">TCM SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TNT FHD">
+    <display-name lang="es">TNT FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TNT Series FHD">
+    <display-name lang="es">TNT Series FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Universal TV FHD">
+    <display-name lang="es">Universal TV FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Warner Channel FHD">
+    <display-name lang="es">Warner Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO 2 FHD">
+    <display-name lang="es">HBO 2 FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO Family FHD">
+    <display-name lang="es">HBO Family FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO FHD">
+    <display-name lang="es">HBO FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO Mundi FHD">
+    <display-name lang="pt">HBO Mundi FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Plus FHD">
+    <display-name lang="pt">HBO Plus FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Pop FHD">
+    <display-name lang="pt">HBO Pop FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Signature FHD">
+    <display-name lang="pt">HBO Signature FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Xtreme FHD">
+    <display-name lang="pt">HBO Xtreme FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="es">Telecine Action FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Cult FHD">
+    <display-name lang="es">Telecine Cult FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Fun FHD">
+    <display-name lang="es">Telecine Fun FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="es">Telecine Pipoca FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="es">Telecine Premium FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Touch FHD">
+    <display-name lang="es">Telecine Touch FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Baby TV SD">
+    <display-name lang="pt">Baby TV SD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Boomerang FHD">
+    <display-name lang="es">Boomerang FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Cartoon Network FHD">
+    <display-name lang="es">Cartoon Network FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Discovery Kids FHD">
+    <display-name lang="es">Discovery Kids FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Disney Channel FHD">
+    <display-name lang="es">Disney Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Disney Junior FHD">
+    <display-name lang="es">Disney Junior FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Disney XD FHD">
+    <display-name lang="es">Disney XD FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Gloob FHD">
+    <display-name lang="es">Gloob FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Gloobinho FHD">
+    <display-name lang="pt">Gloobinho FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="NatGeo Kids FHD">
+    <display-name lang="pt">NatGeo Kids FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Nick FHD">
+    <display-name lang="es">Nick FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Nick Jr FHD">
+    <display-name lang="es">Nick Jr FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Tooncast SD">
+    <display-name lang="pt">Tooncast SD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="TV Ra Tim Bum FHD">
+    <display-name lang="pt">TV Ra Tim Bum FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="ZooMoo SD">
+    <display-name lang="pt">ZooMoo SD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="PlayKids FHD">
+    <display-name lang="pt">PlayKids FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+</tv>
